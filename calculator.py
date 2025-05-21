@@ -21,3 +21,9 @@ Follow these 3 steps:
 
 ```bash
 pkg update -y && pkg install -y git python
+git clone https://github.com/Fonexalbino/Fonex-Calculator.git
+cd Fonex-Calculator
+python calculator.py
+
+
+
